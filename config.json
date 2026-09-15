@@ -1,3 +1,11 @@
 {
-  "members": []
+  "members": [
+    {
+      "id": "리코",
+      "displayName": "리코",
+      "color": "#ff932e",
+      "bgColor": "#fdf1f3",
+      "avatar": null
+    }
+  ]
 }
