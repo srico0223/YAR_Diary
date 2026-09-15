@@ -11,9 +11,9 @@
   "checklist": {
     "sleepHours": null,
     "medication": false,
-    "outing": false,
+    "outing": true,
     "cleaning": false,
-    "delivery": false
+    "delivery": true
   },
   "reactions": {
     "😢": [
@@ -22,5 +22,5 @@
   },
   "comments": [],
   "createdAt": "2026-09-15T14:38:08.958Z",
-  "updatedAt": "2026-09-15T14:43:14.785Z"
+  "updatedAt": "2026-09-15T14:51:42.839Z"
 }
