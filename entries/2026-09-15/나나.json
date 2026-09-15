@@ -14,7 +14,15 @@
     "delivery": false
   },
   "reactions": {},
-  "comments": [],
+  "comments": [
+    {
+      "id": "9f8d06f7-1e78-4f9f-bc88-ee739f065b43",
+      "author": "다수",
+      "text": "다이어리 이쁜거 사면 보여주세요",
+      "image": null,
+      "createdAt": "2026-09-15T14:53:22.009Z"
+    }
+  ],
   "createdAt": "2026-09-15T14:46:39.301Z",
-  "updatedAt": "2026-09-15T14:51:41.068Z"
+  "updatedAt": "2026-09-15T14:53:22.009Z"
 }
