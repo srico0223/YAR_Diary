@@ -14,7 +14,15 @@
     "delivery": false
   },
   "reactions": {},
-  "comments": [],
+  "comments": [
+    {
+      "id": "5836c7c2-8ac6-4e38-8e53-c1950f64984b",
+      "author": "나나",
+      "text": "5시간 수면",
+      "image": null,
+      "createdAt": "2026-09-15T14:43:34.383Z"
+    }
+  ],
   "createdAt": "2026-09-15T14:39:28.574Z",
-  "updatedAt": "2026-09-15T14:39:47.195Z"
+  "updatedAt": "2026-09-15T14:43:34.383Z"
 }
