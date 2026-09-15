@@ -10,11 +10,11 @@
     "sleepHours": 5,
     "medication": false,
     "outing": false,
-    "cleaning": false,
+    "cleaning": true,
     "delivery": false
   },
   "reactions": {},
   "comments": [],
   "createdAt": "2026-09-15T14:39:28.574Z",
-  "updatedAt": "2026-09-15T14:39:29.268Z"
+  "updatedAt": "2026-09-15T14:39:47.195Z"
 }
