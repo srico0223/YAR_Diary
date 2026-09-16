@@ -16,7 +16,15 @@
     "delivery": false
   },
   "reactions": {},
-  "comments": [],
+  "comments": [
+    {
+      "id": "67eb0fd6-a518-4ec3-aa60-0bebeaf4eb2d",
+      "author": "나나",
+      "text": "타블렛 잡은 당신이 승리",
+      "image": null,
+      "createdAt": "2026-09-16T14:37:53.500Z"
+    }
+  ],
   "createdAt": "2026-09-16T14:23:36.892Z",
-  "updatedAt": "2026-09-16T14:23:38.317Z"
+  "updatedAt": "2026-09-16T14:37:53.500Z"
 }
