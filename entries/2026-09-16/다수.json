@@ -15,7 +15,15 @@
     "delivery": true
   },
   "reactions": {},
-  "comments": [],
+  "comments": [
+    {
+      "id": "28dbcdf8-dd6f-427c-b634-2882eaba8c41",
+      "author": "리코",
+      "text": "참잘했어요",
+      "image": null,
+      "createdAt": "2026-09-16T14:23:52.946Z"
+    }
+  ],
   "createdAt": "2026-09-16T13:35:28.527Z",
-  "updatedAt": "2026-09-16T13:35:31.328Z"
+  "updatedAt": "2026-09-16T14:23:52.946Z"
 }
