@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-16",
+  "author": "다수",
+  "moodTags": [
+    "#피곤",
+    "#하긴함"
+  ],
+  "content": "공부.. 하긴 함\n근데 왤케 피곤하지\n배달 음식 내일부터 끊는다 진짜 !!!!!!!!!!!!!!!!!!",
+  "images": [],
+  "checklist": {
+    "sleepHours": 9,
+    "medication": false,
+    "outing": false,
+    "cleaning": false,
+    "delivery": true
+  },
+  "reactions": {},
+  "comments": [],
+  "createdAt": "2026-09-16T13:35:28.527Z",
+  "updatedAt": "2026-09-16T13:35:31.328Z"
+}
