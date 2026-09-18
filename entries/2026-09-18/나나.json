@@ -14,7 +14,15 @@
     "delivery": false
   },
   "reactions": {},
-  "comments": [],
+  "comments": [
+    {
+      "id": "ce3940bd-6a6f-4bd2-bd6b-52cbce4296ae",
+      "author": "리코",
+      "text": "너무슬프다",
+      "image": null,
+      "createdAt": "2026-09-18T13:25:08.235Z"
+    }
+  ],
   "createdAt": "2026-09-18T12:52:14.358Z",
-  "updatedAt": "2026-09-18T12:52:17.879Z"
+  "updatedAt": "2026-09-18T13:25:08.235Z"
 }
