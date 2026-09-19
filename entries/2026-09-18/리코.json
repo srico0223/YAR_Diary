@@ -16,7 +16,15 @@
     "delivery": true
   },
   "reactions": {},
-  "comments": [],
+  "comments": [
+    {
+      "id": "78eb2de5-0a3b-4c50-81eb-524ea6b7a208",
+      "author": "나나",
+      "text": "소우루막걸리",
+      "image": null,
+      "createdAt": "2026-09-19T10:54:15.419Z"
+    }
+  ],
   "createdAt": "2026-09-18T13:26:50.099Z",
-  "updatedAt": "2026-09-18T13:26:50.710Z"
+  "updatedAt": "2026-09-19T10:54:15.419Z"
 }
