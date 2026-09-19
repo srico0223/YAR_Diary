@@ -1,0 +1,20 @@
+{
+  "date": "2026-09-19",
+  "author": "리코",
+  "moodTags": [
+    "#내한"
+  ],
+  "content": "오늘 아침일찍 일어나서 모든 집안일을 끝내고 한국으로 왔네요 정말 피곤한데 내일 여행 일정 때문에 5시기상예정입니다 힘낼게요,",
+  "images": [],
+  "checklist": {
+    "sleepHours": 7,
+    "medication": false,
+    "outing": true,
+    "cleaning": true,
+    "delivery": false
+  },
+  "reactions": {},
+  "comments": [],
+  "createdAt": "2026-09-19T16:20:59.125Z",
+  "updatedAt": "2026-09-19T16:20:59.800Z"
+}
