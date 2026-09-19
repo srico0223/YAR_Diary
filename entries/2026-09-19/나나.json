@@ -14,7 +14,15 @@
     "delivery": false
   },
   "reactions": {},
-  "comments": [],
+  "comments": [
+    {
+      "id": "f5271b17-2314-41b1-ab2a-ed79c3109c62",
+      "author": "리코",
+      "text": "2시간.....?",
+      "image": null,
+      "createdAt": "2026-09-19T16:21:20.626Z"
+    }
+  ],
   "createdAt": "2026-09-19T15:13:52.259Z",
-  "updatedAt": "2026-09-19T15:13:54.646Z"
+  "updatedAt": "2026-09-19T16:21:20.626Z"
 }
