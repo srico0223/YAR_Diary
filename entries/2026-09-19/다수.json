@@ -12,7 +12,15 @@
     "delivery": false
   },
   "reactions": {},
-  "comments": [],
+  "comments": [
+    {
+      "id": "e6f28f56-7f4f-423f-8a90-ea4886f971bd",
+      "author": "나나",
+      "text": "직접 쓰기 강추입니다요",
+      "image": null,
+      "createdAt": "2026-09-20T00:25:24.146Z"
+    }
+  ],
   "createdAt": "2026-09-19T16:51:36.566Z",
-  "updatedAt": "2026-09-19T16:51:40.235Z"
+  "updatedAt": "2026-09-20T00:25:24.146Z"
 }
