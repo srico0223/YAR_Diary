@@ -14,7 +14,15 @@
     "delivery": false
   },
   "reactions": {},
-  "comments": [],
+  "comments": [
+    {
+      "id": "47762e40-11dc-4fae-a417-dd32dbd3ce99",
+      "author": "나나",
+      "text": "#이리코내한기다렸어",
+      "image": null,
+      "createdAt": "2026-09-20T00:25:08.479Z"
+    }
+  ],
   "createdAt": "2026-09-19T16:20:59.125Z",
-  "updatedAt": "2026-09-19T16:20:59.800Z"
+  "updatedAt": "2026-09-20T00:25:08.480Z"
 }
