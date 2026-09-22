@@ -14,7 +14,15 @@
     "delivery": false
   },
   "reactions": {},
-  "comments": [],
+  "comments": [
+    {
+      "id": "4b433e3f-662c-4133-9f41-aa0b01837673",
+      "author": "나나",
+      "text": "개웃기게 ㅅㅂ",
+      "image": null,
+      "createdAt": "2026-09-22T11:28:13.921Z"
+    }
+  ],
   "createdAt": "2026-09-22T11:25:59.574Z",
-  "updatedAt": "2026-09-22T11:26:01.419Z"
+  "updatedAt": "2026-09-22T11:28:13.921Z"
 }
